@@ -10,7 +10,7 @@
 
 <p>Cuenta con Validaciones en caja de entrada, así cómo si se trata de generar un amigo secreto si aún noy una lista.</p>
 
-<h3>funciones empleadoas:</h3>
+<h3>funciones empleadas:</h3>
 
 <ul>
 <li>amigoAleatorio     ******
