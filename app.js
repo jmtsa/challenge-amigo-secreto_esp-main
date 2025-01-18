@@ -8,8 +8,6 @@ let listaAmigos = document.getElementById('listaAmigos');
 
 //Agrega el amigo a la pantalla y al array amigos;
 function agregarAmigo() {
-  //impiarListaAmigos();
-
   let amigoTexto = amigo.value.trim();
 
   if (amigoTexto !== '') {
