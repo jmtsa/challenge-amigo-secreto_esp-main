@@ -13,22 +13,23 @@
 <h3>funciones empleadoas:</h3>
 
 <ul>
-<li>amigoAleatorio
+<li>amigoAleatorio     ******
   De la lista creada genera aleatoriamente un .
 </li>
-  <li>sortearAmigo
+  <li>sortearAmigo     *****
   llama a la función "amigo aleatorio para obtener el amigo"
 </li>
+     
 <li>
--limpiaMensajeSinAmigosAun
+limpiaMensajeSinAmigosAun    *****
 Se usa válidando que si se trata de generar un amigo secretosin haber una lista, muestra un mensaje en pantalla y se usa al momento de introducir el primer nombre para borrar el mensaje y que empice a generar la lista de nombres.
 </li>
 <li>
--limpiarCampoDeEntrada
+limpiarCampoDeEntrada     *****
 Cada vez que se agrega un nombre, deja el campo vacío para el siguiente nombre.
 </li>
 <li>
--agregarAmigo
+-agregarAmigo  *****
 Agrega el nombre que se capturó tanto a el arreglo de amigos, así como para que lo muestre en pantalla.
 </li>
 </u>
