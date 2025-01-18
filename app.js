@@ -37,7 +37,7 @@ function limpiaMensajeSinAmigosAun() {
 function sortearAmigo() {
   let mejorAmigo = amigoAleatorio(amigos);
 
-  return (listaAmigos.innerHTML = mejorAmigo);
+  return (listaAmigos.innerHTML = `El mejor amigo secreto sorteado es: ${mejorAmigo}`);
 }
 
 //Genera el amigo secreto
