@@ -13,11 +13,11 @@
 <h3>funciones empleadoas:</h3>
 
 <ul>
-<li>amigoAleatorio</li>
-  De la lista creada genera aleatoriamente un
-
--sortearAmigo
-llama a la función "amigo aleatorio para obtener el amigo"
+<li>amigoAleatorio
+  De la lista creada genera aleatoriamente un nombre
+</li>
+  -sortearAmigo
+  llama a la función "amigo aleatorio para obtener el amigo"
 
 -limpiaMensajeSinAmigosAun
 Se usa válidando que si se trata de generar un amigo secretosin haber una lista, muestra un mensaje en pantalla y se usa al momento de introducir el primer nombre para borrar el mensaje y que empice a generar la lista de nombres.
